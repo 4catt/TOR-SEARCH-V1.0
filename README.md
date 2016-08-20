@@ -4,3 +4,4 @@ TOR SEARCH V1.0 BY 4CATT
 jest to wersja 1.0 (to tylko wyszukiwarka{wyglad tora})
 prawdziwy tor (pobierz) - https://www.torproject.org/projects/torbrowser.html.en
 -----------------------------------------------------------------------------------------------------------------------------------------
+http://torsearch.cba.pl/ strona xd
